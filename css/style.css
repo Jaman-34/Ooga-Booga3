@@ -5,3 +5,14 @@
     top: 0;
     left: 0;
 }
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.container {
+    display: grid;
+    align-content: space-evenly;
+    justify-items: center;
+}
